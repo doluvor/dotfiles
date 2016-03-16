@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="module type">
+      <project id="blog" values="WEB_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="blog" values="CSS,Cucumber,htaccess,Images,JavaScript,LESS,UNKNOWN,Blade,XML,ReST,PHP,PLAIN_TEXT,C++,YAML,Locale,ARCHIVE,HTML,JSON,TypeScript,Ini" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="blog" values="Project,Project" />
+    </group>
+    <group name="php-interpreters">
+      <project id="blog" values="0" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="blog" values="not installed" />
+    </group>
+    <group name="php-servers">
+      <project id="blog" values="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="blog" values="0" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="blog" values="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="blog" values="DEFAULT" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ideaapp.started" count="2" />
+    </counts>
+  </component>
+</application>
+

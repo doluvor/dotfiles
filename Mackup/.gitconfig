@@ -1,0 +1,16 @@
+[core]
+	excludesfile = /Users/iosDev/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[user]
+	name = doluvor
+	email = doluvor@126.com
+[http]
+[https]
+[push]
+	default = matching
+
